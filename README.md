@@ -2,7 +2,7 @@
 
 ## <i align="center" style="font-size:2rem">📸 APLICACION BUSCADORA DE IMAGENES CON REACT QUERY</i>
 
-En este proyecto se usaron hooks como **useState,useEffect** , tenologias como  **HTML,CSS,JavaScript,React, Styled Components** , para el manejo de estados **Redux**, para el manejo de estados ASÍNCRONOS **React Query** y otras herramientas como **FontAwesome,Axios**
+En este proyecto se usaron hooks como **useState,useEffect** , tenologias como  **HTML,CSS,JavaScript,React, Styled Components** , para el manejo de estados **Redux**, para el manejo de estados ASÍNCRONOS **React Query** y otras herramientas como **FontAwesome,Axios**.
 
  _Este proyecto fue construido con el proposito de practicar Redux and Reacts Query_
 
